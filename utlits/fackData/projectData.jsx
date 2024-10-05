@@ -8,13 +8,13 @@ export const projectsData = [
         id: 1,
         src: work_1,
         category: "Design",
-        title: "Mobile Application Design",
+        title: "Figma design",
     },
     {
         id: 2,
         src: work_2,
         category: "Game",
-        title: "Website Makeup Design",
+        title: "HTML Game Design",
     },
     {
         id: 3,
@@ -32,13 +32,13 @@ export const projectsData = [
         id: 5,
         src: work_3,
         category: "Design",
-        title: "Brand Identity and Motion Design",
+        title: "UI/UX Design",
     },
     {
         id: 6,
         src: work_1,
         category: "Marketing",
-        title: "Brand Identity and Motion Design"
+        title: "Data Modeling"
     },
 
 ]

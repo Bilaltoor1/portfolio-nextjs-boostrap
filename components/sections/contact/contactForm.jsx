@@ -90,7 +90,7 @@ const ContactForm = () => {
                                         type="text"
                                         id="name"
                                         name="name"
-                                        className="form-control"
+                                        className="form-control bg-dark"
                                         value={formData.name}
                                         onChange={handleChange}
                                         placeholder="Steve Milner"
@@ -108,7 +108,7 @@ const ContactForm = () => {
                                         type="email"
                                         id="email"
                                         name="email"
-                                        className="form-control"
+                                        className="form-control bg-dark"
                                         value={formData.email}
                                         onChange={handleChange}
                                         placeholder="hello@websitename.com"
@@ -125,7 +125,7 @@ const ContactForm = () => {
                                     <textarea
                                         name="message"
                                         id="message"
-                                        className="form-control"
+                                        className="form-control bg-dark"
                                         rows="4"
                                         value={formData.message}
                                         onChange={handleChange}

@@ -4,6 +4,7 @@ import { RiArrowRightUpLine } from '@remixicon/react'
 import { projectsData } from '@/utlits/fackData/projectData'
 import SlideUp from '../../utlits/animations/slideUp';
 import Link from "next/link";
+import Image from "next/image";
 
 const animations = ['slideIn', 'fadeIn', 'scaleUp'];
 
@@ -73,7 +74,7 @@ const Card = ({ category, title, src, animationClass, id }) => {
             <SlideUp delay={id}>
                 <div className="project-item style-two">
                     <div className="project-image">
-                        <img src={src} alt="Project" />
+                        <Image src={src} alt="Project" width={300} height={250}/>
                         <Link href="/" className="details-btn"><RiArrowRightUpLine /> </Link>
                     </div>
                     <div className="project-content">

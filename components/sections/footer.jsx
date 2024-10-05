@@ -12,7 +12,7 @@ const Footer = () => {
                         <div className="col-lg-6">
                             <div className="copyright-text">
                                 <p>
-                                    Copyright @{year}, <Link href="/">Bentos</Link> All
+                                    Copyright @{year}, <Link href="/">Bilal Toor</Link> All
                                     Rights Reserved.
                                 </p>
                             </div>
@@ -20,7 +20,7 @@ const Footer = () => {
                         <div className="col-lg-6">
                             <div className="copyright-text extra-copyright">
                                 <p>
-                                    Crafted with ❤️ theme_ocean
+                                    Created using Next JS, Tailwind CSS, and React JS
                                 </p>
                             </div>
                         </div>

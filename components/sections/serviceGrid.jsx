@@ -19,9 +19,9 @@ const ServiceGrid = () => {
                         </div>
                     </div>
                     <div className="row">
-                        <Card id={1} icon={<RiGlobalFill size={60} />} title={"Brand Identity Design"} description={"Bentos gives you the blocks & kits you need to create a true website within minutes."} />
-                        <Card id={2} icon={<RiQuillPenLine size={60} />} title={"Website Design"} description={"Bentos gives you the blocks & kits you need to create a true website within minutes."} />
-                        <Card id={3} icon={<RiPantoneFill size={60} />} title={"Application Design"} description={"Bentos gives you the blocks & kits you need to create a true website within minutes."} />
+                        <Card id={1} icon={<RiGlobalFill size={60} />} title={"Brand Identity Design"} description={"With Bilal, you get everything you need to build powerful, dynamic web applications in no time.."} />
+                        <Card id={2} icon={<RiQuillPenLine size={60} />} title={"Website Design"} description={"Whether it's front-end interfaces or back-end architecture, Bilal provides the blocks & kits to help you create responsive, scalable, and secure web solutions with ease."} />
+                        <Card id={3} icon={<RiPantoneFill size={60} />} title={"Application Design"} description={"From crafting sleek, intuitive user experiences to integrating robust databases and APIs, you can launch your fully functional, custom website or application within minutes."} />
                     </div>
                 </div>
             </div>

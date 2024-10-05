@@ -14,9 +14,9 @@ const Resume = () => {
                             <div className="single-resume">
                                 <h2>Experience</h2>
                                 <div className="experience-list">
-                                    <Card year={'2021 - Present'} title={'Web Designer'} institution={'Themeforest Market '} />
-                                    <Card year={'2021 - 2023'} title={'Marketing Expert GRP'} institution={'Envato Theme Developer'} />
-                                    <Card year={'2021 - 2022'} title={'Web Designer'} institution={'Web Developer & Business Partner'} />
+                                    <Card year={'2021 - Present'} title={'Web Designer'} institution={'Google Development Team'} />
+                                    <Card year={'2019 - 2021'} title={'Software Engineer'} institution={'Amazon Development Team'} />
+                                    <Card year={'2017 - 2019'} title={'Frontend Developer'} institution={'eBay Development Team'} />
                                 </div>
                             </div>
                         </div>
@@ -26,8 +26,8 @@ const Resume = () => {
                             <div className="experience-list">
                                 <div className="single-resume">
                                     <h2>Education</h2>
-                                    <Card year={'2013 - 2015'} title={'Bachelor Degree of Information Technology'} institution={'State University bangladesh'} />
-                                    <Card year={'2021 - 2024'} title={'Higher secoundery Education'} institution={'Premium College United VC'} />
+                                    <Card year={'2013 - 2015'} title={'Bachelor Degree of Software Engineering'} institution={'Air University Multan'} />
+                                    <Card year={'2021 - 2024'} title={'Higher Secondary Education'} institution={'Ibn Qasim Comrade'} />
                                     <Card year={'2020 - 2021'} title={'UI/UX Design'} institution={'Webster College'} />
                                 </div>
                             </div>
